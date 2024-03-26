@@ -38,6 +38,11 @@ window.App = (function(React, ReactDOM) {
 'use strict';
 
 
+// ----------------------------------------
+// Constants
+// ----------------------------------------
+
+
 const {
   createElement: ce,
   StrictMode,
